@@ -1,0 +1,8 @@
+{
+  "name": "videos-cortes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alangabrielbs/videos-cortes.git",
+  "author": "Alan Gabriel <contatoalangabriel@gmail.com>",
+  "license": "MIT"
+}
